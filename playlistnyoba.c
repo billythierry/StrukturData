@@ -95,8 +95,8 @@ int main() {
     printf("=====================================================\n");
     printf("\n");
     
-    printf ("Hellow, Mari kita tidak kenalan...\n");
-    printf ("Perkenalkan nama aku XPOTIPY >_<\n");
+    printf ("Hellow, Mari kita kenalan...\n");
+    printf ("Perkenalkan nama kamu XPOTIPY >_<\n");
     printf ("Nama kamu siapa ?\n\n");
     printf ("Ketik nama kamu disini : ");
     scanf ("%s",&nama);
